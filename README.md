@@ -5,7 +5,7 @@
 <p align="right"><img src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" width="400" /></p>
 
 
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=KakarotSecurity&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
