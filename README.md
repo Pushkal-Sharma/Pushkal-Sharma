@@ -2,7 +2,8 @@
 
 ### Cyber Security & QA Analyst | CEH v9 Certified | VAPT, Network Scanning | 3+ Years | Learning React, AI/ML, DevOps & Emerging Tech
 
-<img align="right" alt ="Security" width = "400" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif>
+<p align="right"><img src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" width="400" /></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/KakarotSecurity&label=Profile views&color=0e75b6&style=flat" alt="https://github.com/KakarotSecurity" /> </p>
 
