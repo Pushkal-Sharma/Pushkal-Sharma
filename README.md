@@ -6,7 +6,10 @@
 
 ## 🛡️ Cybersecurity Practice
 
-[![TryHackMe]<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=573432" style='border:none;'></iframe>
+<a href="https://tryhackme.com/p/KakarotSecurity">
+  <img src="https://tryhackme.com/badge/KakarotSecurity" alt="TryHackMe Badge">
+</a>
+
 
 
 <p align="Left">
