@@ -6,7 +6,7 @@
 
 ## 🛡️ Cybersecurity Practice
 
-[![TryHackMe](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=573432" style='border:none;'></iframe>)
+[![TryHackMe]<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=573432" style='border:none;'></iframe>
 
 
 <p align="Left">
