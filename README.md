@@ -4,6 +4,10 @@
 
 <p align="left"><img src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif" width="400" /></p>
 
+## 🛡️ Cybersecurity Practice
+
+[![TryHackMe](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=573432" style='border:none;'></iframe>)
+
 
 <p align="Left">
   <img src="https://komarev.com/ghpvc/?username=KakarotSecurity&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
