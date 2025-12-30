@@ -10,6 +10,8 @@
   <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=573432" style='border:none;'> alt="TryHackMe Badge">
 </a>
 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/iampushkal.png)](https://tryhackme.com/p/iampushkal)
+
 <p align="Left">
   <img src="https://komarev.com/ghpvc/?username=KakarotSecurity&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
