@@ -7,7 +7,7 @@
 ## 🛡️ Cybersecurity Practice
 
 <a href="https://tryhackme.com/p/pushkal203">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/pushkal203.png" alt="TryHackMe Badge">
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=573432" style='border:none;'> alt="TryHackMe Badge">
 </a>
 
 <p align="Left">
