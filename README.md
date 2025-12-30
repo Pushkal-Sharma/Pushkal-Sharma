@@ -9,9 +9,9 @@
 <a href="https://tryhackme.com/p/pushkal203">
   <img src="https://tryhackme-badges.s3.amazonaws.com/pushkal203.png" alt="TryHackMe Badge">
 </a>
-
-
-
+<a href="https://tryhackme.com/p/pushkal203">
+<img src=https://tryhackme.com/iampushkal/badges/terminaled?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=610064e9232e08004ec39c94 alt="TryHackMe Badge">
+</a>
 
 <p align="Left">
   <img src="https://komarev.com/ghpvc/?username=KakarotSecurity&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
