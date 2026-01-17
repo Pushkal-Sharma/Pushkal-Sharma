@@ -6,7 +6,7 @@
 
 ## 🛡️ Cybersecurity Practice
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/573432.png)](https://tryhackme.com/p/iampushkal)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/573432.png)]([https://tryhackme.com/p/iampushkal](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=573432))  
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/iampushkal.png)](https://tryhackme.com/p/iampushkal)
 
